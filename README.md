@@ -1,21 +1,69 @@
-# portfolio
-About me: My name is Kevin Wang, Marketing analytics and Procurement specialist
+# 👋 Hi, I'm Kevin Wang
 
-Skills: 
-BUSINESS - FINANCIAL ANALYSIS/FINANCIAL MODELING on budget, Profit. WHAT-IF, TIME SERIES & VARIANCE analysis
-COMMUNICATION: Business requirement collection/Knowledge Transfer
-CAMPAIGN & MARKETING:RFM;EMAIL CAMPAIGN PERFORMANCE
-TECHNICAL: DATAMS ACCESS, ADVANCED EXCEL, VBA, SQL, PYTHON, POWER BI
+**Marketing Analytics & Procurement Specialist**  
+Focused on data-driven decision-making, financial analysis, and business performance optimization.
 
+---
 
-Projects:
-Adventure KPI dashboard
-[View Project] https://github.com/KevinWang-d/Adventure-KPI-dashboard-Power-Bi-
+## 📌 About Me
 
-TD CRM dashboard:
-[View Project] https://github.com/KevinWang-d/crm-data-pipeline-analytics
+I am a results-oriented professional with experience in marketing analytics, financial modeling, and procurement analysis. I specialize in transforming raw data into actionable insights to support business strategy and operational efficiency.
 
-Incomestatement model
-[View Project] https://github.com/KevinWang-d/income_statement_excel_model
+---
 
-Contact: kevin1216ads@gmail.com. Phone 647-464-0193
+## 🛠️ Skills
+
+### 📊 Business & Financial Analysis
+- Financial Modeling (Budgeting, Profit Analysis, What-If Scenarios)
+- Time Series & Variance Analysis
+- Forecasting & Performance Evaluation
+
+### 💬 Communication
+- Business Requirements Collection
+- Stakeholder Collaboration
+- Knowledge Transfer & Documentation
+
+### 📣 Marketing & Campaign Analytics
+- RFM Analysis
+- Email Campaign Performance Analysis
+- Customer Segmentation
+- KPI Tracking
+
+### 💻 Technical Skills
+- Microsoft Access
+- Advanced Excel & VBA
+- SQL
+- Python
+- Power BI
+- Data Management & Reporting
+
+---
+
+## 📁 Projects
+
+### 📈 Adventure KPI Dashboard (Power BI)
+Interactive dashboard for business performance and KPI monitoring.  
+🔗 [View Project](https://github.com/KevinWang-d/Adventure-KPI-dashboard-Power-Bi-)
+
+---
+
+### 🏦 TD CRM Data Pipeline & Dashboard
+End-to-end CRM data pipeline with data cleaning, transformation, and analytics.  
+🔗 [View Project](https://github.com/KevinWang-d/crm-data-pipeline-analytics)
+
+---
+
+### 📑 Income Statement Excel Model
+Advanced Excel model for financial statement analysis and automation.  
+🔗 [View Project](https://github.com/KevinWang-d/income_statement_excel_model)
+
+---
+
+## 📬 Contact Me
+
+📧 Email: kevin1216ads@gmail.com  
+📱 Phone: 647-464-0193  
+
+---
+
+⭐ Feel free to explore my projects and connect with me for collaboration opportunities.
